@@ -1,4 +1,4 @@
-# PRINT_PREVIEUW
+# PRINT_PREVIEW
 
 Is a class for create a printing previeuw.Developed in PureBasic and for used by PureBasic
 
@@ -18,7 +18,7 @@ A little database for the code test
 ## Creating object:
 
 ``` markdown
-myPrevieuw.PRINT_PREVIEW::_PRINT_PREVIEW = PRINT_PREVIEW::New((TitleWindow.s,w,h,*Callback,PageWidth=210,PageHeigth=297,ZommFactor.f=1,Unity=#PB_Unit_Millimeter)
+myPreview.PRINT_PREVIEW::_PRINT_PREVIEW = PRINT_PREVIEW::New((TitleWindow.s,w,h,*Callback,PageWidth=210,PageHeigth=297,ZommFactor.f=1,Unity=#PB_Unit_Millimeter)
 TitleWindow --> Title of preview window
 w --> window-width
 h --> window-height
