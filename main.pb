@@ -130,7 +130,9 @@ BindEvent(#PB_Event_CloseWindow,@Exit(),#MainForm)
 Repeat
   WaitWindowEvent()
 ForEver 
-; IDE Options = PureBasic 5.60 (Windows - x64)
-; CursorPosition = 10
+; IDE Options = PureBasic 5.61 (Windows - x64)
+; CursorPosition = 105
+; FirstLine = 86
 ; Folding = ---
 ; EnableXP
+; Compiler = PureBasic 5.61 (Windows - x86)

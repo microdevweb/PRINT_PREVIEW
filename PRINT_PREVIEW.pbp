@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.61 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Nouveau projet"/>
+  </section>
+  <section name="data">
+    <explorer view="..\PRINT_MAKER\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2017-09-15 11:43" user="pierr" host="DESKTOP-3PTGLGI"/>
+  </section>
+  <section name="files">
+    <file name="main.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="746c6152846b2e8625cfd01ecb0b27c3"/>
+    </file>
+    <file name="PRINT_PREVIEW.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="a10b67307e554bfb799f95d2336dc899"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Cible par défaut" enabled="1" default="1">
+      <inputfile value="main.pb"/>
+      <outputfile value=""/>
+      <executable value="Teste.exe"/>
+      <options xpskin="1" debug="1"/>
+    </target>
+  </section>
+</project>
